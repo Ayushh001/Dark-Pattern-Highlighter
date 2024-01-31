@@ -1,4 +1,4 @@
-# Pattern Highlighter
+# Dark Pattern Highlighter
  A Dark Pattern Buster Hackathon prototpe
 
 Summary: 
