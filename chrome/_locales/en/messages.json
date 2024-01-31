@@ -66,8 +66,8 @@
     "description": "Name of the countdown pattern."
   },
   "patternCountdown_infoUrl": {
-    "message": "https://dapde.de/en/dark-patterns-en/types-and-examples-en/druck2-en/",
-    "description": "URL to the explanation of the countdown pattern on the dapde.de website."
+    "message": "https://github.com/Ayushh001/Dark-Pattern-Highlighter/",
+    "description": ""
   },
   "patternCountdown_info": {
     "message": "Countdown patterns induce (truthfully or falsely) the impression that a product or service is only available for a certain period of time. This is illustrated through a running clock or a lapsing bar. You can watch as the desired good slips away.",
@@ -78,8 +78,8 @@
     "description": "Name of the scarcity pattern."
   },
   "patternScarcity_infoUrl": {
-    "message": "https://dapde.de/en/dark-patterns-en/types-and-examples-en/druck2-en/",
-    "description": "URL to the explanation of the scarcity pattern on the dapde.de website."
+    "message": "https://github.com/Ayushh001/Dark-Pattern-Highlighter/",
+    "description": ""
   },
   "patternScarcity_info": {
     "message": "The Scarcity Pattern induces (truthfully or falsely) the impression that goods or services are only available in limited numbers. Scarcity Patterns are also used in versions where the alleged scarcity is simply invented or where it is not made clear whether the limited availability relates to the product as a whole or only to the contingent of the portal visited.",
@@ -90,7 +90,7 @@
     "description": "Name of the social proof pattern."
   },
   "patternSocialProof_infoUrl": {
-    "message": "https://dapde.de/en/dark-patterns-en/types-and-examples-en/druck2-en/",
+    "message": "https://github.com/Ayushh001/Dark-Pattern-Highlighter/",
     "description": "URL to the explanation of the social proof pattern on the dapde.de website."
   },
   "patternSocialProof_info": {
@@ -102,7 +102,7 @@
     "description": "Name of the forced continuity pattern."
   },
   "patternForcedContinuity_infoUrl": {
-    "message": "https://dapde.de/en/dark-patterns-en/types-and-examples-en/operativer-zwang2-en/",
+    "message": "https://github.com/Ayushh001/Dark-Pattern-Highlighter/",
     "description": "URL to the explanation of the forced continuity pattern on the dapde.de website."
   },
   "patternForcedContinuity_info": {
